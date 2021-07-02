@@ -2,12 +2,11 @@
 
 | Paper                                                        | Publish     | Code                                                         | Main Idea                                                    | Blog                                            |
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------- |
+|[Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)||[VGG]()|增加网络深度影响性能|[CSDN](https://blog.csdn.net/sxrkm6s4csx/article/details/117414357)|
 |[Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)|CVPR16  |[ResNet]()|残差模块|            |
 
 ## Evaluation
 
 | 模型         | top1 acc | time    | params(MB) |
 | ------------ | -------- | ------- | ---------- |
-| SENet18      | 95.28%   | 1:27:50 | 11,260,354 |
-| ResNet18     | 95.16%   | 1:13:03 | 11,173,962 |
-| ResNet50     | 95.50%   | 4:24:38 | 23,520,842 |
+|    |    | |  |
