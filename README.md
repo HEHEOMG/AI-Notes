@@ -6,7 +6,7 @@
 
 ## 计算机视觉
 
-- [BackBone]()
+- [BackBone](https://github.com/HEHEOMG/AI-Notes/tree/master/CV/01_Backbone/README.md)
 - [ Detection]()
 
 ## 自然语言处理
@@ -18,5 +18,4 @@
 
 - [BackBone]()
 - [Detection]()
-  
   
