@@ -8,7 +8,7 @@
 
 - [BackBone](https://github.com/HEHEOMG/AI-Notes/tree/master/CV/01_Backbone/README.md)
 - [Detection](https://github.com/HEHEOMG/AI-Notes/blob/master/CV/02_Detection/README.md)
-- [Img Retrieval](https://github.com/HEHEOMG/AI-Notes/blob/master/CV/03_Img_Retrieval/README.md)
+- [Img Retrieval](https://github.com/HEHEOMG/AI-Notes/blob/master/CV/03_img_retrieval/README.md)
 
 
 ## 自然语言处理
@@ -19,5 +19,4 @@
 ## 推荐系统
 
 - [BackBone]()
-- [Detection]()
   
